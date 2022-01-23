@@ -8,7 +8,14 @@ I'm
 Full MERN Stack Web Developer
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design, front-end development (React,  ReactJs, HTML5, CSS3, Javascript, ), database(MongoDB,Mysql).
 
+![Visitor Count](https://profile-counter.glitch.me/priya2022/count.svg)
 
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=priya2022&column=7"/>
+  </a>
+</div>
 
 
 Languages and Tools: 
