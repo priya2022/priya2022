@@ -25,8 +25,16 @@ Languages and Tools:
 </div>
 
 ![](https://activity-graph.herokuapp.com/graph?username=priya2022&theme=react-dark&area=true)
+
+<div align="center">
+    <a href="https://github.com/priya2022">
+        <img align="center"
+            src="https://github-readme-stats.vercel.app/api?username=priya2022&show_icons=true&theme=dracula&line_height=27"
+            alt="PriyaDarshini GitHub Stats" />
+    </a>
+</div>
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**priya2022/priya2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
 **priya2022/priya2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
